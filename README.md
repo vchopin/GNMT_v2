@@ -1,5 +1,5 @@
 # GNMT_v2
-Implementing U-Net under Mindspore framework
+Implementing GNMTv2 under Mindspore framework
 # Citing
 ## BibTeX
 
